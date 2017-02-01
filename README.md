@@ -1,2 +1,2 @@
-# resumexyz
-Source code of my Resume Website / Code source de mon CV en ligne
+# xyz
+Source code of my resume website : http://benoitcatillon.xyz
