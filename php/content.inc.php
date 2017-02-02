@@ -18,7 +18,7 @@
           et continuer à développer mes connaissances.
       <br /><br />
       <hr />
-          <a href="assets/docs/CV_Benoit-Catillon.pdf" target="_blank" class="btn btn-info">
+          <a href="docs/CV_Benoit-Catillon.pdf" target="_blank" class="btn btn-info">
             <strong>Télécharger mon CV</strong>
           </a>
       <br />
