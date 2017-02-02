@@ -16,13 +16,14 @@
 </div> <!-- FIN navbar header -->
 
 <!-- Navbar Menu -->
+
 <div class="navbar-collapse collapse">
   <ul class="nav navbar-nav navbar-left">
     <li><a href="index.php">ACCUEIL</a></li>
-    <li><a href="#competences">COMPÉTENCES</a></li>
-    <li><a href="#formations">FORMATIONS</a></li>
-    <li><a href="#experience">EXPÉRIENCES</a></li>
-    <li><a href="#loisirs">LOISIRS</a></li>
+    <li><a href="index.php#competences">COMPÉTENCES</a></li>
+    <li><a href="index.php#formations">FORMATIONS</a></li>
+    <li><a href="index.php#experience">EXPÉRIENCES</a></li>
+    <li><a href="index.php#loisirs">LOISIRS</a></li>
     <li><a href="contact.php">CONTACT</a></li>
   </ul>
 </div><!-- FIN navbar menu -->

@@ -51,6 +51,8 @@
 
         <!-- Bootstrap Core JavaScript -->
         <script src="js/bootstrap.min.js"></script>
+        <!-- GitHub Button -->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
 
         <!-- Return-on-Top Button -->
         <script>

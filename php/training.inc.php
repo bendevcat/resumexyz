@@ -3,7 +3,7 @@
 <div id="formations" class="row">
   <div id="white" class="blockother col-lg-offset-2 centered center-div">
     <h1>FORMATIONS</h1>
-    <img src="assets/img/m2i.jpg" alt="M2i Formation Diplomante">
+    <img src="img/m2i.jpg" alt="M2i Formation Diplomante">
     <br /><hr/>
     <p class="centered"><strong>M2i Formation 2016 – 2017</strong></p>
     <hr /><br />

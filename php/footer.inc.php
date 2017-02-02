@@ -15,9 +15,19 @@
                <div class="col-lg-4">
                    <h4>Réseaux Sociaux</h4>
                    <p>
-                       <a href="https://www.linkedin.com/in/beno%C3%AEt-catillon-7031b094" target="_blank">LinkedIn</a><br/>
-                       <a href="#">StackOverflow</a><br/>
-                       <a href="#">OpenClassrooms</a>
+                       <a href="https://www.linkedin.com/in/beno%C3%AEt-catillon-7031b094" target="_blank">LinkedIn</a><br />
+                       <a href="#">StackOverflow</a><br />
+                       <a href="#">OpenClassrooms</a><br /><br />
+                       <!-- GitHub Button -->
+                       <a class="github-button"
+                          href="https://github.com/benoitcatillon/xyz/subscription"
+                          data-style="mega"
+                          data-count-href="/benoitcatillon/xyz/watchers"
+                          data-count-api="/repos/benoitcatillon/xyz#subscribers_count"
+                          data-count-aria-label="# watchers on GitHub"
+                          aria-label="Watch benoitcatillon/xyz on GitHub">
+                          My GitHub
+                        </a>
                    </p>
                </div><!-- FIN col-lg-4 -->
 

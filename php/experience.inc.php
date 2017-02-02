@@ -4,7 +4,7 @@
   <div id="white" class="blockother col-lg-offset-2 centered center-div">
     <h1>EXPÉRIENCES</h1>
 
-    <img src="assets/img/fnac.jpeg" alt="FNAC">
+    <img src="img/fnac.jpeg" alt="FNAC">
 
     <br /><hr/>
 
