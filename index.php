@@ -33,34 +33,43 @@
 
     <body>
 
+        <!-- Inclusion du Header -->
         <?php include('php/header.inc.php'); ?>
 
       	<!-- Index : WW Container Include -->
       	<div id="ww">
       	    <div class="container">
+
+                <!-- Inclusion de la l'Accueil du site -->
                 <?php include('php/content.inc.php'); ?>
 
                     <br /><br />
+
+                <!-- Inclusion des Compétences -->
                 <?php include('php/skills.inc.php'); ?>
 
                     <br /><br />
                     <br /><br />
 
+                <!-- Inclusion des Formations -->
                 <?php include('php/training.inc.php'); ?>
 
                     <br /><br />
                     <br /><br />
 
+                <!-- Inclusion des Expériences -->
                 <?php include('php/experience.inc.php'); ?>
 
                     <br /><br />
                     <br /><br />
 
+                <!-- Inclusion des Loisirs -->
                 <?php include('php/hobbies.inc.php'); ?>
 
             </div> <!-- FIN container -->
         </div><!-- FIN WW  -->
 
+        <!-- Inclusion du Footer -->
   	    <?php include('php/footer.inc.php'); ?>
 
         <!-- Bootstrap Core JavaScript -->
