@@ -314,7 +314,7 @@ table {
 
 /* Return on top */
 #returnOnTop {
-    background: url('../../img/back-to-top.png') no-repeat;
+    background: url('../img/back-to-top.png') no-repeat;
     bottom: 1%;
     cursor: pointer;
     display: none;
