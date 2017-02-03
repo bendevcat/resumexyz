@@ -23,7 +23,12 @@
       &nbsp;&nbsp;&bull; PHP / PHP POO<br />
       &nbsp;&nbsp;&bull; Symfony 2.8<br />
       &nbsp;&nbsp;&bull; Java<br />
-      &nbsp;&nbsp;&bull; Android<br />
+      &nbsp;&nbsp;&bull; Android Natif<br /><br />
+
+      Le cursus comprend 4 mois de formations à l'école M2i Formation, à Paris 12e.<br />
+      Le rythme est très soutenu, les languages sont vus de manière très concise,
+      le temps étant compté, à nous de compléter nos connaissances !
+
     </p>
   </div><!-- FIN white blockother -->
 </div><!-- FIN formation row -->
