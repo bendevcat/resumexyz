@@ -74,7 +74,9 @@
                     <div>
                         <p><strong>Java SE</strong></p>
                         <div class="w3-progress-container w3-round-large w3-small" style="width:100%">
-                            <div class="w3-center w3-text-black">En cours...</div>
+                            <div class="w3-progressbar w3-round-large w3-green" style="width:40%">
+                                <div class="w3-center w3-text-white">40%</div>
+                            </div>
                         </div>
                     </div><!-- FIN progressbar Java SE -->
 
@@ -83,7 +85,7 @@
                     <div>
                         <p><strong>Android Natif</strong></p>
                         <div class="w3-progress-container w3-round-large w3-small" style="width:100%">
-                            <div class="w3-center w3-text-black">Prochainement...</div>
+                            <div class="w3-center w3-text-black">En cours...</div>
                         </div>
                     </div><!-- FIN progressbar Android -->
                 </td>
